@@ -1,0 +1,135 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bunker P2",
+        "desc": "Unknown",
+        "sym": null,
+        "marker-color": "#00a408"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.333509922,
+          50.662998199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bunker 119",
+        "desc": "Unknown",
+        "sym": null,
+        "marker-color": "#00a408"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.33668994903564,
+          50.6609992980957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00a408",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Bunker 118",
+        "desc": "Regelbautyp 23",
+        "sym": "null"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.33441019058228,
+          50.660099029541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bunker 113",
+        "desc": "Unknown",
+        "sym": null,
+        "marker-color": "#00a408"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.328549862,
+          50.661201477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bunker 108",
+        "desc": "Unknown",
+        "sym": null,
+        "marker-color": "#00a408"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.327390194,
+          50.664199829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bunker 107",
+        "desc": "Regelbautyp 10",
+        "sym": null,
+        "marker-color": "#00a408"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.326179981,
+          50.664901733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bunker 106",
+        "desc": "Regelbautyp 23",
+        "sym": null,
+        "marker-color": "#00a408"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.325689793,
+          50.666500092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bunker 105",
+        "desc": "Regelbautyp 26",
+        "sym": null,
+        "marker-color": "#00a408"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.322589874,
+          50.668498993
+        ]
+      }
+    }
+  ]
+}
