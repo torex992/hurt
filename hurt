@@ -22021,6 +22021,102 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wasserbunker",
+        "desc": "Unknown",
+        "sym": null,
+        "marker-color": "#00a408"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.35375022888184,
+          50.6539993286133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Unknown Bunker",
+        "desc": "Unknown",
+        "sym": null,
+        "marker-color": "#00a408"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.35963010787964,
+          50.6534004211426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bunker 139/140",
+        "desc": "Regelbautyp 11",
+        "sym": null,
+        "marker-color": "#00a408"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.33738994598389,
+          50.6474990844727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bunker 135",
+        "desc": "Regelbautyp 23",
+        "sym": null,
+        "marker-color": "#00a408"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3387598991394,
+          50.6507987976074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bunker 132",
+        "desc": "Regelbautyp 10",
+        "sym": null,
+        "marker-color": "#00a408"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.33633995056152,
+          50.6523017883301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bunker 131",
+        "desc": "Regelbautyp 10",
+        "sym": null,
+        "marker-color": "#00a408"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.33785009384155,
+          50.6510009765625
+        ]
+      }
     }
   ]
 }
