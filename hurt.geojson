@@ -22251,6 +22251,153 @@
           50.667209625
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Bunker 41",
+        "desc": "Regelbautyp 105",
+        "sym": "null",
+        "link": "http://derbuhlert.com/bunkers/bunker/82/bunker-41"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.205860138,
+          50.661819458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MG Shield",
+        "desc": "MG Shield",
+        "sym": null,
+        "link": "http://derbuhlert.com/bunkers/bunker/85/mg-shield"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.200049877,
+          50.666790009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pakbunker ",
+        "desc": "Regelbautyp Pakgarage",
+        "sym": null,
+        "link": "http://derbuhlert.com/bunkers/bunker/84/pakbunker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.201439857,
+          50.664329529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Panzer Sperr",
+        "desc": "Betonhöckerhindernis 1939",
+        "sym": null,
+        "link": "http://derbuhlert.com/bunkers/bunker/83/panzer-sperr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.204889774,
+          50.657661438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pakbunker",
+        "desc": "Regelbautyp Pakgarage",
+        "sym": null,
+        "link": "http://derbuhlert.com/bunkers/bunker/80/pakbunker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.291820049,
+          50.624801636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bunker 223a",
+        "desc": "Regelbautyp 102d",
+        "sym": null,
+        "link": "http://derbuhlert.com/bunkers/bunker/81/bunker-223a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.29237,
+          50.62477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wasserbunker",
+        "desc": "Regelbautyp K",
+        "sym": null,
+        "link": "http://derbuhlert.com/bunkers/bunker/77/wasserbunker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.28781,
+          50.66058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hockerlinie",
+        "desc": "Betonhöckerhindernis 1939",
+        "sym": null,
+        "link": "http://derbuhlert.com/bunkers/bunker/56/hockerlinie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.284366608,
+          50.606933594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bunker 10",
+        "desc": "Regelbautyp C-4",
+        "sym": null,
+        "link": "http://derbuhlert.com/bunkers/bunker/55/bunker-10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.276159763,
+          50.605270386
+        ]
+      }
     }
   ]
 }
